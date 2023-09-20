@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Cash-Flow_Minimiser/static/css/main.6188a20e.css",
+    "main.js": "/Cash-Flow_Minimiser/static/js/main.f118086d.js",
+    "static/js/787.f3ccc013.chunk.js": "/Cash-Flow_Minimiser/static/js/787.f3ccc013.chunk.js",
+    "static/media/logo.png": "/Cash-Flow_Minimiser/static/media/logo.b5e367bf36f56f282e9d.png",
+    "index.html": "/Cash-Flow_Minimiser/index.html",
+    "main.6188a20e.css.map": "/Cash-Flow_Minimiser/static/css/main.6188a20e.css.map",
+    "main.f118086d.js.map": "/Cash-Flow_Minimiser/static/js/main.f118086d.js.map",
+    "787.f3ccc013.chunk.js.map": "/Cash-Flow_Minimiser/static/js/787.f3ccc013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6188a20e.css",
+    "static/js/main.f118086d.js"
+  ]
+}
